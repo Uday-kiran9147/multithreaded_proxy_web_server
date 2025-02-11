@@ -1,7 +1,7 @@
 // Lib imports
 #include <stdio.h>
 #include<stdio.h>
-
+#include<time.h>
 
 // Local imports
 #include "proxy_parse.h"
